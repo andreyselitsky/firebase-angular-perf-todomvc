@@ -20,8 +20,8 @@ I'm writing this just to let you know that I'm also huge fan of Gulp and other m
 For this small demo I decided not use them as it would be overkill. But if you want more examples, just let me know.
  
 # How to run     
- - run bower install 
- - open index.html in Chrome or if you have http-server installed (npm install http-server) run http-server -o in terminal
+ - run <code>bower install<code>
+ - open index.html in Chrome or if you have http-server installed (<code>npm install http-server<code>) run <code>http-server -o<code> in terminal
  
  
  
