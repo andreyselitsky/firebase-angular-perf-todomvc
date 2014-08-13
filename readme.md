@@ -17,7 +17,7 @@ tags on the page each time we add new files + it also makes dev environment work
 I'm writing this just to let you know that I'm also huge fan of Gulp and other modern tools like Bootsrap and Compass for example.
 For this small demo I decided not use them as it would be overkill. But if you want more examples, just let me know.
  
- #  How to run     
+ # How to run     
  - run bower install 
  - open index.html in Chrome or if you have http-server installed (npm install http-server) run http-server -o in terminal
  
