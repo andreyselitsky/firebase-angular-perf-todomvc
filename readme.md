@@ -4,7 +4,7 @@ This is actually just a mix of two examples from todo-mvc official repo:
  - [angular-perf](https://github.com/tastejs/todomvc/tree/gh-pages/architecture-examples/angularjs-perf)  for performance optimization 
  - [firebase-angular](https://github.com/tastejs/todomvc/tree/gh-pages/labs/architecture-examples/firebase-angular) for firebase
 
-# A couple of word about this demo
+# A couple of words about this demo
 
 Nothing special, but at least I made it work together in the latest versions of angular and angularfire :)
  
