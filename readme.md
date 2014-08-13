@@ -3,7 +3,9 @@ This is actually just a mix of two examples from todo-mvc official repo:
  
  - [angular-perf](https://github.com/tastejs/todomvc/tree/gh-pages/architecture-examples/angularjs-perf)  for performance optimization 
  - [firebase-angular](https://github.com/tastejs/todomvc/tree/gh-pages/labs/architecture-examples/firebase-angular) for firebase
- 
+
+# A couple of word about this demo
+
 Nothing special, but at least I made it work together in the latest versions of angular and angularfire :)
  
 Haven't added Bootstrap here, as it would be overkill for a such small app, it is really good for larger application with a lot of form elements and pages and other UI blocks.
