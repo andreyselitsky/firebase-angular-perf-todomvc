@@ -22,7 +22,7 @@ For this small demo I decided not use them as it would be overkill. But if you w
 # How to run     
  - run <code>bower install</code>
  - open index.html in Chrome 
- - or if you have http-server installed <code>npm install http-server</code> run <code>http-server -o</code> in terminal
+ - or if you have http-server installed (<code>npm install http-server</code>) run <code>http-server -o</code> in terminal
  
  
  
