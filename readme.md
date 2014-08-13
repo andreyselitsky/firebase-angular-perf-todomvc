@@ -1,7 +1,7 @@
 Holla,  
 This is actually just a mix of two examples from todo-mvc official repo:
  
- - [angular-perf](https://github.com/tastejs/todomvc/tree/gh-pages/architecture-examples/angularjs-perf)  for performance optimization
+ - [angular-perf](https://github.com/tastejs/todomvc/tree/gh-pages/architecture-examples/angularjs-perf)  for performance optimization 
  - [firebase-angular](https://github.com/tastejs/todomvc/tree/gh-pages/labs/architecture-examples/firebase-angular) for firebase
  
  Nothing special, but at least I made it work together in the latest versions of angular and angularfire :)
@@ -19,8 +19,8 @@ This is actually just a mix of two examples from todo-mvc official repo:
  For this small demo I decided not use them as it would be overkill. But if you want more examples, just let me know.
  
  #  How to run     
-   - run bower install   
-   - open index.html in Chrome or if you have http-server installed (npm install http-server) run http-server -o in terminal
+ - run bower install 
+ - open index.html in Chrome or if you have http-server installed (npm install http-server) run http-server -o in terminal
  
  
  
